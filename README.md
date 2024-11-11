@@ -5,8 +5,10 @@ This project uses the following environment variables:
 
 | Name                          | Description                         | Default Value                                  |
 | ----------------------------- | ------------------------------------| -----------------------------------------------|
-|CORS           | Cors accepted values            | "*"      |
-
+|DB_HOST          | Value            | 127.0.0.1 |
+|DB_USER          | Value            | root |
+|DB_PASSWORD         | Value            | root |
+|DB_NAME          | Value            | techsmart |
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 8.0.0
